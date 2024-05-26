@@ -11,25 +11,12 @@ In this repository, you will find various computer vision projects that I have w
 Here are some of the projects included in this repository:
 
 1. **Project 1: Color detection using OpenCV and Python**
-    - Description: 
     - Tutorial: [[YouTube Tutorial Link](https://youtu.be/aFNDh5k3SjU?si=G6lW18YjXZrMTtYJ)](#)
 
 2. **Project 2: Image Classificiaton using Scikit learn and Python**
-    - Description: 
     - Tutorial: [[YouTube Tutorial Link](https://youtu.be/il8dMDlXrIE?si=CtgdP5Z-rAO-pMZa)](#)
 
-3. **Project 3: Image Classification**
-    - Description: Building a simple image classification model.
-    - Tutorial: [YouTube Tutorial Link](#)
 
-4. **Project 4: Face Detection**
-    - Description: Detecting faces in images using Haar cascades.
-    - Tutorial: [YouTube Tutorial Link](#)
-
-5. **Project 5: Biological Image Analysis (Planned)**
-    - Description: Future project aiming to analyze biological images.
-    - Tutorial: To be determined
-  
 ## Acknowledgements
 
 Thanks to all the YouTube content creators and online educators who have provided valuable tutorials and resources.
